@@ -1,2 +1,1 @@
-# GreenCodingDemo
-<img src="./Doc/images/Coding_CS.png" width="100" height="100"/>
+# <img src="./Doc/images/Coding_CS.png" width="50" height="50"/> Green Coding in C#
